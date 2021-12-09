@@ -827,8 +827,8 @@ body {
   color: var(--main-light-color);
 }
 
-.subsc-btn-title {
-  margin-right: 10px;
+.send-icon {
+  margin-left: 10px;
 }
 
 /* --------------Modal Window------------------- */
